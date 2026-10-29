@@ -1,1 +1,27 @@
-# python-basics-factorial--25BCOL2841
+## Factorial Calculator
+A simple Python application that calculates the factorial
+of any number entered by the user.
+## Features
+- Calculates factorials of any positive integer
+-we used AI to convert the code from c to python
+- Includes input validation for negative numbers
+- Handles invalid user input
+- Easy to use and beginner friendly
+## Requirements
+- Python 3.x
+- NumPy
+## Installation
+Clone the repository.
+Install the dependencies using:
+pip install -r requirements.txt
+## Usage
+Run:
+python factorial.py
+Enter a number when prompted:
+Enter a number: 5
+Output:
+120
+## How It Works
+The program accepts a number from the user and uses
+a loop to calculate its factorial.
+
